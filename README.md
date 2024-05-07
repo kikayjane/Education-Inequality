@@ -1,6 +1,9 @@
 # Education-Inequality Project
 This project addresses inequality of educational opportunity in U.S. high schools. Here we will focus on the average student performance on the ACT or SAT exams that students take as part of the college application process. We expect a range of school performance on these exams, but we want to find out if school performance is predicted by socioeconomic factors.
 
+## Requirements
+Colab 
+
 ## Data
 Three data sets will be utilized: edgap_data.csv and ccd_sch_029_1617_w_1a_11212017.csv, and internet.csv.
 
